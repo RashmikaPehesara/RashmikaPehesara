@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmikapehesara&label=Profile%20views&color=0e75b6&style=flat" alt="rashmikapehesara" /> </p>
 
-- 🔭 I’m currently working on **React-based web applications**
+- 📊 I’m currently working on **React-based web applications**
 
-- 🌱 I’m currently learning **MERN**
+- 📌I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **Web development projects**
+- 📍 I’m looking to collaborate on **Web development projects**
 
-- 🤝 I’m looking for help with **Backend development & project structure**
+- 🔗 I’m looking for help with **Backend development & project structure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RashmikaPehesara](https://github.com/RashmikaPehesara)
 
@@ -26,7 +26,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RashmikaPehesara&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaPehesara&theme=dark&hide_border=false" /> 
+
 </td>
 <td width="50%" align="center">
 
