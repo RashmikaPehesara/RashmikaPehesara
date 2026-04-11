@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rashmika Pehesara</h1>
 <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmikapehesara&label=Profile%20views&color=0e75b6&style=flat" alt="rashmikapehesara" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rashmikapehesara&label=Profile%20views&color=0e75b6&style=flat" alt="rashmikapehesara" /> </p>
 
 - 📊 I’m currently working on **React-based web applications**
 
@@ -22,12 +22,10 @@
 <p align="center">
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RashmikaPehesara&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-
-</td>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaPehesara&theme=tokyonight" />
+</p>
+  <br>
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RashmikaPehesara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
